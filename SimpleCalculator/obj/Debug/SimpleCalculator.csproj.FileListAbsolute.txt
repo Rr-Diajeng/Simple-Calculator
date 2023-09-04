@@ -1,0 +1,10 @@
+D:\Diajeng\Programming\pbkk\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+D:\Diajeng\Programming\pbkk\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+D:\Diajeng\Programming\pbkk\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+D:\Diajeng\Programming\pbkk\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Diajeng\Programming\pbkk\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\Diajeng\Programming\pbkk\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\Diajeng\Programming\pbkk\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\Diajeng\Programming\pbkk\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\Diajeng\Programming\pbkk\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+D:\Diajeng\Programming\pbkk\SimpleCalculator\SimpleCalculator\obj\Debug\Calculator.Form1.resources
